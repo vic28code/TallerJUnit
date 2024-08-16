@@ -5,4 +5,6 @@
  * 
  */
 module disenioTaller {
+	requires junit;
+
 }
